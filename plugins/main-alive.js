@@ -31,9 +31,9 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
       mentionedJid: [m.sender],
       externalAdReply: {
         title: 'I AM ALIVE',
-        body: 'OREO BOT',
+        body: '*ੈ✩₊˚𝗢𝗯𝗶𝘁𝗼 𝗨𝗰𝗵𝗶𝗵𝗮ྀ࿐',
         thumbnailUrl: img,
-        sourceUrl: 'https://chat.whatsapp.com/DWqdPuQ0yFkKyf1SzZ0k9Y',
+        sourceUrl: 'https://chat.whatsapp.com/KWAadDw545X2Re1F6RjjEz',
         mediaType: 1,
         renderLargerThumbnail: true,
       },
